@@ -3,3 +3,31 @@ title: "Elfried KINZOUN S.D"
 show_downloads: true
 #theme: jekyll-theme-minimal
 theme: "Time machine" 
+
+
+# Informations sur toi
+author:
+  name: "Ton nom complet"
+  email: "tonemail@example.com"
+  description: "Quelques mots sur toi, tes compétences ou ton métier"
+
+# Paramètres du thème (exemple avec le thème 'minimal')
+theme: "minimal" # Le thème que tu utilises pour ton site
+
+# Personnalisation de l'interface
+show_excerpts: true
+paginate: 5 # Nombre d'articles ou projets affichés par page
+
+# Réseaux sociaux
+social:
+  github: "https://github.com/tonpseudo"
+  linkedin: "https://linkedin.com/in/tonpseudo"
+  twitter: "https://twitter.com/tonpseudo"
+
+# Plugins (si tu en as besoin)
+plugins:
+  - jekyll-feed # Pour générer des flux RSS
+  
+# Paramètres supplémentaires (ajuste selon le thème choisi)
+markdown: kramdown
+highlighter: rouge #
