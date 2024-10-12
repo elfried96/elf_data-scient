@@ -1,15 +1,13 @@
 # Informations générales sur ton portfolio
 title: "Elfried KINZOUN S.D"
-show_downloads: true
-#theme: jekyll-theme-minimal
-theme: "Time machine" 
-
+description: "Portfolio de projets hebdomadaires en vision par ordinateur et IA."
+theme: "Time machine" # Thème choisi
 
 # Informations sur toi
 author:
-  name: "Ton nom complet"
-  email: "tonemail@example.com"
-  description: "Quelques mots sur toi, tes compétences ou ton métier"
+  name: "Elfried Steve David KINZOUN"
+  email: "ekfriedkinzoun@gmail.com"
+  description: "Je suis passionné par la robotique et l'intelligence artificielle. Je suis Béninois."
 
 # Personnalisation de l'interface
 show_excerpts: true
@@ -21,10 +19,10 @@ social:
   linkedin: "https://linkedin.com/in/tonpseudo"
   twitter: "https://twitter.com/tonpseudo"
 
-# Plugins (si tu en as besoin)
+# Plugins
 plugins:
   - jekyll-feed # Pour générer des flux RSS
-  
-# Paramètres supplémentaires (ajuste selon le thème choisi)
+
+# Paramètres supplémentaires
 markdown: kramdown
-highlighter: rouge #
+highlighter: rouge
