@@ -1,7 +1,6 @@
 title: "Elfried KINZOUN S.D"
 description: "Portfolio de projets hebdomadaires en vision par ordinateur et IA."
-logo: cayman/assets/images/im1.jpeg
-theme: cayman
+theme: "Time machine" # Thème choisi
 
 author:
   name: "Elfried Steve David KINZOUN"
