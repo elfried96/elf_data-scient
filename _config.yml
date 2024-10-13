@@ -1,28 +1,24 @@
-# Informations générales sur ton portfolio
 title: "Elfried KINZOUN S.D"
 description: "Portfolio de projets hebdomadaires en vision par ordinateur et IA."
-theme: jekyll-theme-minimal
 
-# Informations sur toi
+logo: cayman/assets/images/im1.jpeg
+theme: cayman
+
 author:
   name: "Elfried Steve David KINZOUN"
   email: "ekfriedkinzoun@gmail.com"
   description: "Je suis passionné par la robotique et l'intelligence artificielle. Je suis Béninois."
 
-# Personnalisation de l'interface
 show_excerpts: true
 paginate: 5
 
-# Réseaux sociaux
 social:
   github: "https://github.com/elfried96"
   linkedin: "https://linkedin.com/in/tonpseudo"
   twitter: "https://twitter.com/tonpseudo"
 
-# Plugins
 plugins:
-  - jekyll-feed # Pour générer des flux RSS
+  - jekyll-feed
 
-# Paramètres supplémentaires
 markdown: kramdown
 highlighter: rouge
