@@ -1,12 +1,15 @@
-# Data Scientist - Elfried Kinzoun
+---
+layout: home
+title: "Data Scientist - Elfried KINZOUN"
+---
 
-### À Propos
+## À Propos
 
-Je suis un passionné de l'intelligence artificielle avec une solide compréhension des concepts fondamentaux de l'IA. Mon objectif est de continuer à explorer et à développer mes compétences pour créer des solutions innovantes pour l'avenir. Je me spécialise dans la robotique, le développement web et l'analyse de données, et je suis toujours à la recherche de nouveaux défis dans ces domaines.
+Je suis passionné par l'intelligence artificielle avec une solide compréhension des concepts fondamentaux de l'IA. Mon objectif est de continuer à explorer et à développer mes compétences pour créer des solutions innovantes pour l'avenir. Je me spécialise dans la robotique, le développement web et l'analyse de données, et je suis toujours à la recherche de nouveaux défis dans ces domaines.
 
 ---
 
-### Éducation
+## Éducation
 
 - **2023 - 2024 : Licence 2**  
   Institut de Formation et de Recherche en Informatique (IFRI)  
@@ -21,7 +24,7 @@ Je suis un passionné de l'intelligence artificielle avec une solide compréhens
 
 ---
 
-### Expérience Professionnelle
+## Expérience Professionnelle
 
 - **2023 : Hackathon Multimodal (Projet Agritube)**  
   Membre de l'équipe Olympus IA, j'ai participé au développement de la solution Agritube, visant à faciliter l'apprentissage des agriculteurs dans les régions éloignées en langue fon. Ce projet a été sélectionné parmi les 10 premiers lors d'un concours national.
@@ -37,23 +40,23 @@ Je suis un passionné de l'intelligence artificielle avec une solide compréhens
 
 ---
 
-### Projets
+## Projets
 
-- **Agritube (Hackathon Multimodal)**  
-  Une solution innovante visant à faciliter l'accès à des informations agricoles pour les agriculteurs dans des régions reculées en utilisant une approche multimodale.
+### Agritube (Hackathon Multimodal)
+[Voir plus de détails](./projects/agritube/index.html)
 
-- **TimePlaner (IFRI)**  
-  Développement d'une application web pour la gestion des emplois du temps étudiants avec Django.
+### TimePlaner (IFRI)
+[Voir plus de détails](./projects/timeplaner/index.html)
 
-- **Projet SCOP**  
-  Développement d'un robot triant des déchets en fonction des couleurs pour améliorer la gestion des déchets.
+### Projet SCOP
+[Voir plus de détails](./projects/scop/index.html)
 
-- **Pan_Card**  
-  Application web visant à détecter les cartes d'identité contrefaites.
+### Pan_Card
+[Voir plus de détails](./projects/pancard/index.html)
 
 ---
 
-### Compétences
+## Compétences
 
 - **Langages de programmation :** C, C++, Java, Python
 - **Base de données :** SQL
@@ -65,7 +68,7 @@ Je suis un passionné de l'intelligence artificielle avec une solide compréhens
 
 ---
 
-### Contact
+## Contact
 
 - **Email :** ekfriedkinzoun@gmail.com  
 - **Téléphone :** +229 96848729  
@@ -73,7 +76,7 @@ Je suis un passionné de l'intelligence artificielle avec une solide compréhens
 
 ---
 
-### Langues
+## Langues
 
 - Français : 80%  
 - Anglais : 40%
